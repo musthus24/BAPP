@@ -25,7 +25,3 @@ A cloud-hosted platform that ingests NBA data, stores it in SQL, computes core b
 - **CI:** GitHub Actions runs tests on push.
 
 **Non-goals (MVP):** authentication/roles, full play-by-play fidelity, advanced models.
-
----
-
-## Architecture (tiny)

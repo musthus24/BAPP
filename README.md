@@ -1,10 +1,9 @@
 # BAPP: Basketball Analytics Performance Platform
-# BAPP — Basketball Analytics Performance Platform (MVP)
 
 **Status:** scaffold created; building features step-by-step for learning and clarity.
 
 ## What this is
-A small, cloud-hosted platform that ingests NBA data, stores it in SQL, computes core basketball metrics, serves them via a tiny API, and visualizes them in a single-page web UI. It demonstrates end-to-end data + software engineering aligned with an NBA Basketball Operations SWE internship.
+A cloud-hosted platform that ingests NBA data, stores it in SQL, computes core basketball metrics, serves them via a tiny API, and visualizes them in a single-page web UI. It demonstrates end-to-end data + software engineering aligned with an NBA Basketball Operations SWE internship.
 
 ## Why it matters (for Basketball Ops)
 - **Faster decisions:** quick view of a player’s form and lineup performance.

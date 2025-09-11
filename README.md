@@ -8,7 +8,7 @@ A cloud-hosted platform that ingests NBA data, stores it in SQL, computes core b
 ## Why it matters (for Basketball Ops)
 - **Faster decisions:** quick view of a player’s form and lineup performance.
 - **Reliable pipeline:** ingestion → storage → metrics → API → UI, with CI.
-- **Extensible:** clean schema + FastAPI make adding new metrics straightforward.
+- **Extensible:** clean schema + FastAPI make adding new metrics straightforward   
 
 ---
 
